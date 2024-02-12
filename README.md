@@ -1,4 +1,4 @@
-# Forked to add Serial logging in order to send data to a Raspberry Pi for the purpose of using with an external application
+# Added build with OLED and Battery using the SSD1306 OLED and the TP4056 Charge Module
 
 # DeauthDetector
 Detect deauthentication frames using an ESP8266
