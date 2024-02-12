@@ -1,4 +1,4 @@
-# Added build with OLED and Battery using the SSD1306 OLED and the TP4056 Charge Module
+# Added branch with OLED and Battery using the SSD1306 OLED and the TP4056 Charge Module
 
 # DeauthDetector
 Detect deauthentication frames using an ESP8266
