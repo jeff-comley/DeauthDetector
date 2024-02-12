@@ -1,3 +1,5 @@
+# Forked to add Serial logging in order to send data to a Raspberry Pi for the purpose of using with an external application
+
 # DeauthDetector
 Detect deauthentication frames using an ESP8266
 
